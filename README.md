@@ -1,8 +1,11 @@
-# Store_Sales_dataset-Power-BI
+# Sales Analysis Power BI Project 
 
-# Problem Statement 
-A Sales Manager wants to understand different priority orders with their order quantities and revenue generation on them to prepare Business Strategy accordingly. They also want to check which region stores are giving good Margins and a consistent number of orders over time.
- 
+This Power BI project aims to provide valuable insights for the Sales Manager to strategize and make data-driven decisions. It covers two main aspects:
+
+ - Priority Orders Analysis: This section offers a detailed view of different priority orders, including their order quantities and revenue generation. These insights will help in prioritizing orders effectively.
+
+ - Regional Store Performance: In this section, we analyze which regions are delivering good profit margins and consistently maintaining a high number of orders over time.
+
 # Tool Used:
 Power BI
 
@@ -17,7 +20,8 @@ Power BI
 3.) Load the data into the (.pbix) file    
 4.) Data Modelling: Relationship between Orders and Revenue table  
 
-#Visuals 
+# Visuals  
+
 1.) The Sales Manager would like to know the sales for Order ID 90193. Create a Manual Relationship between two tables Orders and Revenue. Also create a table visual to find out the Sales of specified order,  
 2.) The Sales Manager wants to find out the total sales based on order priority, region, and customer ID. Find out the categories which generated the highest sum of sales.    
     - A) Which order priority generated the highest sum of sales?   
